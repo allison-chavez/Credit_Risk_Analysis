@@ -9,17 +9,29 @@ Logistic regression:
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/naive.png)
 - Naive Random sampling
 
+
+
+
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/smote.png)
 - Smote OverSampling
+
+
+
 
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/undersampling.png)
 - Undersampling
 
+
+
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/combo%20over:under.png)
 - Combo
 
+
+
 ![alt_text]((https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
 - Balanced Random Forest
+
+
 
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/EasyEnsemble.png)
 - Easy Ensemble Classifier
