@@ -6,7 +6,9 @@ The purpose of this analysis was to complete and compare machine learning models
 ## Results
 
 Logistic regression:
-- Naive Random sampling:
+
+
+Naive Random sampling:
 - accuracy score: 0.64
 - precision: 0.99
 - recall scores: 0.56
@@ -22,37 +24,45 @@ Smote OverSampling:
 
 
 
-
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/undersampling.png)
 Undersampling:
 - accuracy score: 0.54
 - precision: 0.99 
 - recall scores: 0.40
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/undersampling.png)
 
 
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/combo%20over:under.png)
+
+
 Combo:
 - accuracy score: 0.65
 - precision: 0.99
 - recall scores: 0.56
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/combo%20over:under.png)
 
 
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
+
+
+
 Balanced Random Forest: 
 - accuracy score: 0.87
 - precision:
   - macro avg: 0.51           
   - weighted avg: 0.99  
-   
 - recall scores:
    - macro avg: 0.79     
    - weighted avg: 0.87
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
 
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/EasyEnsemble.png)
+
+
+
+
 Easy Ensemble Classifier:
 - accuracy score: 0.93
 - precision: 0.99
 - recall scores: 0.94
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/EasyEnsemble.png)
+
 
 ## Summary
 machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
