@@ -51,6 +51,7 @@ Balanced Random Forest:
 - recall scores:
    - macro avg: 0.79     
    - weighted avg: 0.87
+   
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
 
 
