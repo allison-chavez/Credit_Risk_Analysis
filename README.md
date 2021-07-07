@@ -28,6 +28,7 @@ Undersampling:
 - accuracy score: 0.54
 - precision: 0.99 
 - recall scores: 0.40
+
 ![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/undersampling.png)
 
 
