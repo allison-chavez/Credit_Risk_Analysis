@@ -28,7 +28,7 @@ Logistic regression:
 
 
 
-![alt_text]((https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/balancedRandomForest.png)
 - Balanced Random Forest
 
 
