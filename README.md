@@ -67,4 +67,4 @@ Easy Ensemble Classifier:
 
 
 ## Summary
-machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Easy Ensemlbe had the highest accuracy score (93) so I would use that machine learning model for this data analysis. The accuracy being higher than the other machine learning models can help obtain better credit risk scores. 
