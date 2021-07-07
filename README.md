@@ -6,20 +6,20 @@ The purpose of this analysis was to complete and compare machine learning models
 ## Results
 
 Logistic regression:
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/naive.png)
-Naive Random sampling:
+- Naive Random sampling:
 - accuracy score: 0.64
 - precision: 0.99
 - recall scores: 0.56
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/naive.png)
 
 
 
-
-![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/smote.png)
 Smote OverSampling:
 - accuracy score:  0.65
 - precision: 0.99
 - recall scores: 0.56
+![alt_text](https://github.com/allison-chavez/Credit_Risk_Analysis/blob/main/images/smote.png)
+
 
 
 
